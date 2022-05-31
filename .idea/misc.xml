@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/drawable/bg_blue.xml" value="0.1475" />
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/drawable/bg_green.xml" value="0.2" />
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/drawable/bg_menu.xml" value="0.1895" />
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/drawable/bg_purple.xml" value="0.1475" />
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/drawable/bg_red.xml" value="0.1475" />
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/drawable/bg_skyblue.xml" value="0.1475" />
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/drawable/bg_yellow.xml" value="0.1475" />
+        <entry key="..\:/Users/micod/OneDrive/Desktop/AppProjects/DashboardUI2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
